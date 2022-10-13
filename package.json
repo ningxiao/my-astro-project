@@ -7,7 +7,7 @@
         "dev": "astro dev",
         "start": "astro dev",
         "build": "astro build",
-        "preview": "vercel deploy --prebuilt"
+        "preview": "vercel deploy --prebuilt && vercel --prod"
     },
     "keywords": [],
     "author": "",
